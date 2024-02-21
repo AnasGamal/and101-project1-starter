@@ -31,11 +31,15 @@ class MainActivity : AppCompatActivity() {
 
     private fun setupProfile() {
         configureImage()
+        configureBio()
         configureName()
     }
-
     private fun configureImage() {
-        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.ic_launcher_foreground))
+        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.me))
+    }
+
+    private fun configureBio() {
+        profileBio.text = getString(R.string.profile_bio_text)
     }
 
     private fun configureName() {
