@@ -35,9 +35,11 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/AnasGamal/and101-project1-starter/blob/main/Kapture%202024-02-25%20at%2017.16.54.gif?raw=true' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
+
+GIF created with Kap
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
